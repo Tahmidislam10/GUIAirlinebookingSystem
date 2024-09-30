@@ -1,7 +1,7 @@
 Airline Ticket Booking GUI
 This is a simple airline ticket booking system built using Python's Tkinter library for the graphical user interface (GUI). It allows users to book adult and child tickets, calculates the total price, and keeps track of seat availability.
 
-**Features**************************
+******Features******
 Book Tickets: Users can book adult and child tickets.
 Dynamic Pricing: Adult tickets are priced at £120 and child tickets at £60.
 Seat Availability: The system starts with 152 available seats and updates the remaining seats after each booking.
