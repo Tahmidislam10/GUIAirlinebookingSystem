@@ -1,4 +1,5 @@
-Airline Ticket Booking GUI
+**Airline Ticket Booking GUI**
+
 This is a simple airline ticket booking system built using Python's Tkinter library for the graphical user interface (GUI). It allows users to book adult and child tickets, calculates the total price, and keeps track of seat availability.
 
 **Course Information**
